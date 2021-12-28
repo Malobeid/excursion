@@ -1,3 +1,11 @@
 body{
     background-color: black;
 }
+
+h1{
+    font-family: Verdana;
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
